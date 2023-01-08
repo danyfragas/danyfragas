@@ -1,4 +1,4 @@
-### oii! Eu sou a Dany
+### oii! eu sou a Dany
 
 - 🔭 Estudando front-end e back-end
 - 😄 Pronouns: ela/dela
@@ -27,7 +27,7 @@
   <a href="https://instagram.com/danyfragas" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:danyelle359fragas@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
-  ![Snake animation](https://github.com/danyfragas/danyfragas/blob/output/github-contribution-grid-snake.svg)
+  ![snake gif](https://github.com/danyfragas/danyfragas/blob/output/github-contribution-grid-snake.svg)
 
 
 </div>
