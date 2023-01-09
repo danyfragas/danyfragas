@@ -37,5 +37,3 @@
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{danyfragas}/count.svg" /></p> 
 </div>
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00FF7F&height=120&section=footer"/>
-
-  ![snake gif](https://github.com/danyfragas/danyfragas/blob/output/github-contribution-grid-snake.svg)
