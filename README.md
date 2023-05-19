@@ -5,8 +5,8 @@
 ##
 
 <div align="center">  
-  <img width="51%" height="197px" src="https://github-readme-stats.vercel.app/api?username=danyfragas&show_icons=true&count_private=true&hide_border=true&title_color=ff91a4&icon_color=ff91a4&text_color=c9d1d9&bg_color=0d1117" alt="Danielle Fragas github stats" /> 
-  <img width="43%" height="197px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danyfragas&layout=compact&hide_border=true&title_color=ff91a4&text_color=ff91a4&bg_color=0d1117" />
+  <img width="51%" height="197px" src="https://github-readme-stats.vercel.app/api?username=danyfragas&show_icons=true&count_private=true&hide_border=true&title_color=00FF7F&icon_color=ff91a4&text_color=c9d1d9&bg_color=0d1117" alt="Danielle Fragas github stats" /> 
+  <img width="43%" height="197px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danyfragas&layout=compact&hide_border=true&title_color=00FF7F&text_color=ff91a4&bg_color=0d1117" />
 </div>
 
  ## Main skills:
@@ -23,11 +23,10 @@
 
  ## Currently studying:
   
-<div  aligh="center"><br>
+<div aligh="center">
   <img align="center" alt="Dany-react" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg">
   <img align="center" alt="Dany-nodejs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg">
   <img align="center" alt="Dany-angularjs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg">
-  <img align="center" alt="Dany-jquery" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-plain-wordmark.svg">
   <img align="center" alt="Dany-django" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg">
 </div>
 
