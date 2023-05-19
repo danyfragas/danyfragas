@@ -4,13 +4,10 @@
 
 ##
 
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=danyfragas&show_icons=true&count_private=true&hide_border=true&title_color=F0F8FF&icon_color=00FF7F&text_color=c9d1d9&bg_color=0d1117" alt="Danielle Fragas github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danyfragas&layout=compact&hide_border=true&title_color=F0F8FF&text_color=ff91a4&bg_color=0d1117" />
-</div>
+
 
  ## Main skills:
-<!-- 
+
 <div align="center">
   <img align="center" alt="Dany-Csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
   <img align="center" alt="Dany-Csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
@@ -20,7 +17,7 @@
   <img align="center" alt="Dany-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
   <img align="center" alt="Dany-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg">
 </div>
---> 
+
 
    ## Contact
   
