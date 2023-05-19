@@ -10,7 +10,7 @@
 </div>
 
  ## Main skills:
-  
+<!-- 
 <div align="center">
   <img align="center" alt="Dany-Csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
   <img align="center" alt="Dany-Csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
@@ -20,6 +20,7 @@
   <img align="center" alt="Dany-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
   <img align="center" alt="Dany-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg">
 </div>
+--> 
 
    ## Contact
   
@@ -29,10 +30,8 @@
   <a href="https://instagram.com/danyfragas" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
    <a href="https://discord.gg/7847gcua" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto:danyelle359fragas@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=B22222" target="_blank"></a>
-
-  <a href=""> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danyfragas&theme=react&line_height=40&hide=css"/> </a>
   
-   <a href=""> <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?danyfragas=YulietM&theme=react&line_height=40&hide=css"/> </a>
+  <a href=""> <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=danyfragas&theme=react&line_height=40&hide=css"/> </a>
   
 </div>
 
