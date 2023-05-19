@@ -6,7 +6,7 @@
 
 <div align="center">  
   <img width="51%" height="197px" src="https://github-readme-stats.vercel.app/api?username=danyfragas&show_icons=true&count_private=true&hide_border=true&title_color=00FF7F&icon_color=00FF7F&text_color=00FF7F&bg_color=0d1117" alt="Danielle Fragas github stats" /> 
-  <img width="43%" height="197px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danyfragas&layout=compact&hide_border=true&title_color=00FF7F&text_color=00FF7F&bg_color=0d1117" />
+  <img width="43%" height="197px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danyfragas&layout=compact&hide_border=true&title_color=00FF7F&text_color=c9d1d9&bg_color=0d1117" />
 </div>
 
  ## Main skills:
